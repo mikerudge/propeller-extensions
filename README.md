@@ -1,16 +1,18 @@
 # README
+
 ## How to install
 
-* Clone [this repo](https://github.com/mikerudge/propeller-extensions) to `~/.vscode/extensions`
+- Serach for "propeller" in the extensions window of vs code.
+- Once you click install, it will also install all the extensions.
 
-*If you cloned it to `~/sites` you can run this command `mv ~/sites/propeller-extensions ~/.vscode/extensions` to move the folder from sites to the extensions folder. 
+## Contribute
 
-* Open VScode and you should see a new extension in your extensions called propeller-pack
+- When you find an **awesome** extension, add it to the package.json file
 
-## Contribute 
+- increment the version number
 
-* When you find an **awesome** extension, add it to the package.json file
+- Commit and Push
 
-* Commit it, Push it… Thats it!
+- I will then deploy it to the vs code extension store.
 
 > Tip You can see the `publisherid.extensionName` at the end of the URL of an extension on the Marketplace.
