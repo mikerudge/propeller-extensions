@@ -4,6 +4,7 @@
   "description": "extensions for vs code we use in propeller",
   "version": "0.0.2",
   "publisher": "mikerudge",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.24.0"
   },
