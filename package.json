@@ -1,0 +1,53 @@
+{
+  "name": "propeller-pack",
+  "displayName": "propeller-pack",
+  "description": "extensions for vs code we use in propeller",
+  "version": "0.0.1",
+  "publisher": "mikerudge",
+  "engines": {
+    "vscode": "^1.24.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionDependencies": [
+    "CoenraadS.bracket-pair-colorizer",
+    "DavidAnson.vscode-markdownlint",
+    "PKief.material-icon-theme",
+    "WallabyJs.quokka-vscode",
+    "bajdzis.vscode-refresh-html",
+    "burkeholland.simple-react-snippets",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "cmstead.jsrefactor",
+    "dbaeumer.jshint",
+    "dbaeumer.vscode-eslint",
+    "deerawan.vscode-dash",
+    "eamodio.gitlens",
+    "eg2.vscode-npm-script",
+    "emmanuelbeziat.vscode-great-icons",
+    "esbenp.prettier-vscode",
+    "fabiospampinato.vscode-optimize-images",
+    "file-icons.file-icons",
+    "flowtype.flow-for-vscode",
+    "formulahendry.auto-close-tag",
+    "igorming.useful-react-snippets",
+    "jamesmaj.easy-icons",
+    "kumar-harsh.graphql-for-vscode",
+    "mikestead.dotenv",
+    "ms-azuretools.vscode-cosmosdb",
+    "ms-vscode.azure-account",
+    "ms-vscode.node-debug2",
+    "ms-vsliveshare.vsliveshare",
+    "msjsdiag.debugger-for-chrome",
+    "mikerudge.refactor-require-to-import",
+    "robertohuertasm.vscode-icons",
+    "sidthesloth.html5-boilerplate",
+    "theShukran.theshukran-react-utils",
+    "tht13.html-preview-vscode",
+    "vsmobile.vscode-react-native",
+    "vuhrmeister.vscode-meteor",
+    "wix.vscode-import-cost",
+    "wmaurer.change-case"
+  ]
+}
