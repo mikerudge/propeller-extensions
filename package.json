@@ -2,7 +2,7 @@
   "name": "propeller-pack",
   "displayName": "propeller-pack",
   "description": "extensions for vs code we use in propeller",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "publisher": "mikerudge",
   "icon": "images/icon.png",
   "engines": {
@@ -19,6 +19,7 @@
     "CoenraadS.bracket-pair-colorizer",
     "DavidAnson.vscode-markdownlint",
     "PKief.material-icon-theme",
+    "Atlassian.atlascode",
     "WallabyJs.quokka-vscode",
     "burkeholland.simple-react-snippets",
     "christian-kohler.npm-intellisense",
