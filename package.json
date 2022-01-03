@@ -2,7 +2,7 @@
   "name": "propeller-pack",
   "displayName": "propeller-pack",
   "description": "extensions for vs code we use in propeller",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "publisher": "mikerudge",
   "icon": "images/icon.png",
   "engines": {
@@ -16,7 +16,6 @@
     "Extension Packs"
   ],
   "extensionDependencies": [
-    "CoenraadS.bracket-pair-colorizer",
     "DavidAnson.vscode-markdownlint",
     "PKief.material-icon-theme",
     "Atlassian.atlascode",
@@ -43,7 +42,6 @@
     "ms-vscode.azure-account",
     "ms-vscode.node-debug2",
     "ms-vsliveshare.vsliveshare",
-    "msjsdiag.debugger-for-chrome",
     "mikerudge.refactor-require-to-import",
     "alefragnani.project-manager",
     "robertohuertasm.vscode-icons",
